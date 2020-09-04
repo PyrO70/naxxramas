@@ -17,11 +17,11 @@ Two phases, one tank and spank, and a boss kitting and add dps phase.
   - 30 yds radius
   - **1200 dmg** / 2sec stacking + silence (any skill, including melee, auto attack, etc)
   
-
 ### Tank
 
 - Boss (1 Tank)
   - When Locust Swarm is casted, move the boss along the room edges to opposite side of the room
+    - Tiger Aspect from Hunter
   - Always use the same side of the room
 - Adds (1-2 Tanks)
   - Two adds
@@ -40,7 +40,8 @@ Two phases, one tank and spank, and a boss kitting and add dps phase.
 
 - Keep **35yds** away from boss
 - **DPS Adds** > DPS Boss
-
+- Hunter x1
+  - Tiger Aspect for tank to change position when Locust Swarm is casted
 
 ### Melee
 
