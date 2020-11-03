@@ -35,12 +35,12 @@
 
 #### Kill order
 
-- Mograine 100% -> 50%
-- Thane 100% -> 50%
-- Mograine 50% -> 20%
-- Thane 50% -> 20%
-- Mograine 20% -> 0%
-- Thane 20% -> 0%
+- Thane 100% -> 50% (rdps=  7375)
+- Mograine 100% -> 50% (rdps= 6625)
+- Thane 50% -> 20% (rdps= 4425)
+- Mograine 50% -> 20% (rdps= 3975)
+- Thane 20% -> 0% (rdps= 2950)
+- Mograine 20% -> 0% (rdps= 2650)
 - Blaumeux 100% -> 50%
 - Zeliek 100% -> 50%
 - Blaumeux 50% -> 20%
