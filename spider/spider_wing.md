@@ -1,5 +1,11 @@
 # Spider Wing
 
+## Trashs
+
+### Spider Packs
+- One Patrol
+- Dread Creeper , Carrion Spinner, Venom St
+
 ## Anul'Rekhan
 
 Two phases, one tank and spank, and a boss kitting and add dps phase.
@@ -77,8 +83,9 @@ The fight as two *phases*. Killig the adds and then killing the boss.
      - Dispell enrage
      - Restart 60 seconds timer
      - Stop Poison Bolt Volley for 30 seconds
-   - No enrage: Delay enrage by 30sec (No sure if that)
+   - No enrage
      - Add 30seconds to enrage time
+     - Stop Poison Bolt Volley for 30 seconds
 
 #### Add (Worshipper x4, Followers x2)
 - Worshipper
